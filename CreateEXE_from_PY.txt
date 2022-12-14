@@ -1,0 +1,10 @@
+# install pyinstaller: 
+
+pip install pyinstaller 
+
+# cd to your .py file
+# run pyinstaller: 
+
+pyinstaller --onefile <your_script_name>.py 
+
+# In folder dist you'll find .exe file. 
